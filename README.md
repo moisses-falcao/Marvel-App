@@ -8,8 +8,8 @@ O App também conta com o recurso "Favoritar", que permite guardar e excluir seu
 
 O App utiliza Flow ao invés do LiveData, fazendo com que resultados sejam emitidos continuamente.
 
-<div align="left">
+
   
     ![video-app-marvel_k5A22egC (1)](https://user-images.githubusercontent.com/95506261/157915196-834fdb0a-d7d4-488d-a0df-d7ddd1be8406.gif)
 
-</div>
+
